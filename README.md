@@ -1,5 +1,5 @@
 **Aryan Pahade**
-- 👋 Hi, I’m @AkitooSama
+- 👋 Hi, I’m @AkitooSama (I use Arch, BTW)
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
