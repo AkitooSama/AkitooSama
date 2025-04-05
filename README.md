@@ -38,11 +38,17 @@
 └────────────────────────────────────────────────────────┘
 ```
 
-🎧 <strong>Now Playing</strong>
-<img src="https://img.shields.io/badge/now%20playing-Lain%20OST%20-%20INFOS%20BLEEDS%20IN%20MY%20SOUL-ffb6c1?style=for-the-badge&logo=spotify&logoColor=white&color=ff69b4" />
+<div align="center">
+
+🎧 <strong>Now Playing</strong>  
+<img src="https://img.shields.io/badge/Now%20Playing-Lain%20OST%20%7C%20INFOS%20BLEEDS%20IN%20MY%20SOUL-ffb6c1?style=for-the-badge&logo=spotify&logoColor=white" />
 
 <br/><br/>
 
-🍥 <strong>Wallpaper & Vibes</strong>
-<i>Sakura pixel rain over Hyprland — booted straight into bliss.</i>
-</div> <div align="center"> <img src="https://github.com/AkitooSama/AkitooSama/blob/output/github-contribution-grid-snake.svg" /> </div> <!--- AkitooSama/AkitooSama is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. Preview this in dark mode — that's where it lives. --->
+🌸 <strong>Wallpaper & Vibes</strong>  
+<i>Sakura pixel rain over Hyprland — booted straight into bliss.</i>  
+<br/>
+<img src="https://i.imgur.com/WCWUjCT.gif" width="300px"/>
+
+</div>
+<!--- AkitooSama/AkitooSama is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. Preview this in dark mode — that's where it lives. --->
