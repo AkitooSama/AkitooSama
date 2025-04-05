@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,neovim,tmux,zsh,bash" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,linux,neovim,zig,godot" /><br/><br/>
 
   <img src="https://img.shields.io/badge/Arch-<3-1793d1?style=flat&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/WM-Hyprland-88c0d0?style=flat&logo=wayland&logoColor=white">
