@@ -45,7 +45,7 @@
 │ ⚧ pronouns: py/thon                                   │
 │ 😼 quirk: terminal human who hates python          │
 └────────────────────────────────────────────────────────┘
-
+```
 <i> 🌸 Soft on the outside, cursed in the shell. 🦄 Anime-coded + Arch-pilled + async-traumatized. 🌐 Rice life: Hyprland, CRT fonts, and sakura rain. </i> </div> <div align="center">
 
 🎧 <strong>Now Playing</strong>
