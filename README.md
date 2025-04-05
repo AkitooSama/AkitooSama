@@ -13,9 +13,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/70/82/63/70826360a72047abc1ff324e7df77b65.gif" width="70%" />
-</p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://i.pinimg.com/originals/70/82/63/70826360a72047abc1ff324e7df77b65.gif" width="60%" />
+  <img src="https://i.pinimg.com/originals/c4/37/12/c43712af49b76ffbf268dd254800624d.gif" width="35%" />
+</div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=system+fetch+~+~;about+me;">
