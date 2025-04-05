@@ -1,5 +1,14 @@
+<!-- Pink Sakura Pixel Rain Background (only works on personal site, not GitHub) -->
+<style>
+  body {
+    background-image: url('https://i.imgur.com/WCWUjCT.gif');
+    background-size: cover;
+    background-attachment: fixed;
+  }
+</style>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F58ED5&center=true&vCenter=true&width=700&lines=Heyy,+I'm+Aryan+Pahade;aka+@AkitooSama+(btw+I+use+Arch,+Hyprland,+Zsh)">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=welcome+to+my+pretty+terminal+~;aka+@AkitooSama+%F0%9F%A7%9C%E2%99%82%EF%B8%8F;arch+linux+btw+%7C+hyprland+%7C+zsh+%7C+neovim">
 </h1>
 
 <div align="center">
@@ -7,56 +16,43 @@
 
   <img src="https://img.shields.io/badge/Arch-<3-1793d1?style=flat&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/WM-Hyprland-88c0d0?style=flat&logo=wayland&logoColor=white">
-  <img src="https://img.shields.io/badge/Shell-Zsh-7d77ff?style=flat&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Shell-Zsh-ffb6c1?style=flat&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Aesthetic-femboy~core-ff69b4?style=flat&logoColor=white">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/qfH1gYP.gif" width="200px" alt="Chii pixel art">
+  <img src="https://i.imgur.com/qfH1gYP.gif" width="160px" alt="Chii pixel art" />
 </div>
 
 ---
 
 <div align="center">
-
-🎀 <strong>About Me</strong> 🎀  
-<i>cutely cursed dev energy + python pain tolerance + anime-tier rice</i>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=🎀+about+me+%7C+system+fetch+~" />
 </div>
-
-<br/>
 
 <div align="center">
 
-┌───────────────────────────────┐  
-│  ∙ Name: Aryan Pahade         │  
-│  ∙ Handle: @AkitooSama        │  
-│  ∙ Main stack: Python         │  
-│  ∙ Currently exploring: More Python pain │  
-│  ∙ Looking to collab on: Python anything │  
-│  ∙ Contact: akitoomusic@gmail.com │  
-│  ∙ Pronouns: py/thon          │  
-│  ∙ Quirk: Hates Python, uses it anyway │  
-└───────────────────────────────┘  
+```shell
+┌────────────────────────────────────────────────────────┐
+│ 🌸 name: Aryan Pahade                                 │
+│ 🎀 handle: @AkitooSama                                │
+│ 💻 main stack: Python, NeoVim, Zsh, Tmux              │
+│ 🔮 learning: async rituals, cursed CLI magick         │
+│ 👯 collab: chaotic python side quests + rice configs  │
+│ 💌 contact: akitoomusic@gmail.com                     │
+│ ⚧ pronouns: py/thon                                   │
+│ 😼 quirk: terminal human who hates python          │
+└────────────────────────────────────────────────────────┘
 
-</div>
+<i> 🌸 Soft on the outside, cursed in the shell. 🦄 Anime-coded + Arch-pilled + async-traumatized. 🌐 Rice life: Hyprland, CRT fonts, and sakura rain. </i> </div> <div align="center">
 
-<br/>
+🎧 <strong>Now Playing</strong>
+<img src="https://img.shields.io/badge/now%20playing-Lain%20OST%20-%20INFOS%20BLEEDS%20IN%20MY%20SOUL-ffb6c1?style=for-the-badge&logo=spotify&logoColor=white&color=ff69b4" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=22&duration=5000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Booting+~+rice+mode...;Checking+config...;+System:+Arch+Linux+%7C+WM:+Hyprland;+Editor:+NeoVim+%7C+Shell:+Zsh;+Everything+is+pain.+Welcome+back,+AkitooSama.">
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-  <img src="https://github.com/AkitooSama/AkitooSama/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-<!---
-AkitooSama/AkitooSama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🍥 <strong>Wallpaper & Vibes</strong>
+<i>Sakura pixel rain over Hyprland — booted straight into bliss.</i>
+</div> <div align="center"> <img src="https://github.com/AkitooSama/AkitooSama/blob/output/github-contribution-grid-snake.svg" /> </div> <!--- AkitooSama/AkitooSama is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. Preview this in dark mode — that's where it lives. --->
