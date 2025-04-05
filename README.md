@@ -13,8 +13,10 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <pre style="text-align: left; min-width: 300px;">
+<table align="center">
+  <tr>
+    <td>
+      <pre>
 ┌────────────────────────────────────────────────────────┐
 │ name: aryan pahade                                     │
 │ handle: @akitooSama                                    │
@@ -24,11 +26,13 @@
 │ contact: akitoomusic@gmail.com                         │
 │ pronouns: any                                          │
 └────────────────────────────────────────────────────────┘
-  </pre>
-
-  <img src="https://i.pinimg.com/originals/c4/37/12/c43712af49b76ffbf268dd254800624d.gif" width="35%" />
-</div>
-
+      </pre>
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/c4/37/12/c43712af49b76ffbf268dd254800624d.gif" width="300px" />
+    </td>
+  </tr>
+</table>
 
 <!---
 AkitooSama/AkitooSama is a special repository because its README.md
