@@ -17,7 +17,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=system+fetch+~+~;about+me;">
 </h1>
 
-<h2 align="center">about me</h2>
 <hr>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
