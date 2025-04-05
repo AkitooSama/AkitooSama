@@ -14,12 +14,6 @@
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/EBnMdHX.gif" width="160px" alt="Sakura Rain" />
-</div>
-
----
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=🎀+about+me+%7C+system+fetch+~" />
 </div>
 
@@ -39,16 +33,4 @@
 ```
 
 <div align="center">
-
-🎧 <strong>Now Playing</strong>  
-<img src="https://img.shields.io/badge/Now%20Playing-Lain%20OST%20%7C%20INFOS%20BLEEDS%20IN%20MY%20SOUL-ffb6c1?style=for-the-badge&logo=spotify&logoColor=white" />
-
-<br/><br/>
-
-🌸 <strong>Wallpaper & Vibes</strong>  
-<i>Booted straight into bliss.</i>  
-<br/>
-<img src="[https://i.imgur.com/WCWUjCT.gif](https://i.imgur.com/EBnMdHX.gif)" width="300px"/>
-
-</div>
 <!--- AkitooSama/AkitooSama is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. Preview this in dark mode — that's where it lives. --->
