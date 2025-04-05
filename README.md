@@ -46,9 +46,9 @@
 <br/><br/>
 
 🌸 <strong>Wallpaper & Vibes</strong>  
-<i>Sakura pixel rain over Hyprland — booted straight into bliss.</i>  
+<i>Booted straight into bliss.</i>  
 <br/>
-<img src="https://i.imgur.com/WCWUjCT.gif" width="300px"/>
+<img src="[https://i.imgur.com/WCWUjCT.gif](https://i.imgur.com/EBnMdHX.gif)" width="300px"/>
 
 </div>
 <!--- AkitooSama/AkitooSama is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. Preview this in dark mode — that's where it lives. --->
