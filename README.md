@@ -13,17 +13,13 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif" width="70%" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=system+fetch+~+~;about+me;">
 </h1>
 
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-<pre>
+  <pre>
 ┌────────────────────────────────────────────────────────┐
 │ name: Aryan Pahade                                     │
 │ handle: @AkitooSama                                    │
@@ -34,8 +30,12 @@
 │ pronouns: py/thon                                      │
 │ quirk: terminal human who hates python                 │
 └────────────────────────────────────────────────────────┘
-</pre>
+  </pre>
 
+  <img src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif" 
+       width="200" 
+       height="200" 
+       style="border-radius: 8px;" />
 </div>
 
 <!---
