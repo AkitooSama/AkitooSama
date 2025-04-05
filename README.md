@@ -46,7 +46,6 @@
 │ 😼 quirk: terminal human who hates python          │
 └────────────────────────────────────────────────────────┘
 ```
-<i> 🌸 Soft on the outside, cursed in the shell. 🦄 Anime-coded + Arch-pilled + async-traumatized. 🌐 Rice life: Hyprland, CRT fonts, and sakura rain. </i> </div> <div align="center">
 
 🎧 <strong>Now Playing</strong>
 <img src="https://img.shields.io/badge/now%20playing-Lain%20OST%20-%20INFOS%20BLEEDS%20IN%20MY%20SOUL-ffb6c1?style=for-the-badge&logo=spotify&logoColor=white&color=ff69b4" />
