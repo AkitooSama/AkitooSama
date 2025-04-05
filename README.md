@@ -33,7 +33,7 @@
 │ collab: project + rice configs                         │
 │ contact: akitoomusic@gmail.com                         │
 │ pronouns: any                                          │
-│ interets: ascii and terminal                           │  
+ │ interets: ascii and terminal                           │  
 └────────────────────────────────────────────────────────┘
 </pre>
 
