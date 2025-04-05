@@ -27,7 +27,7 @@
 ┌────────────────────────────────────────────────────────┐
 │ name: Aryan Pahade                                     │
 │ handle: @AkitooSama                                    │
-│ main stack: Python, NeoVim, Zsh, Tmux                  │
+│ main stack: Zig, Python, NeoVim, Zsh, Tmux             │
 │ learning: async rituals, cursed CLI magick             │
 │ collab: chaotic python side quests + rice configs      │
 │ contact: akitoomusic@gmail.com                         │
