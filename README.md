@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/qfH1gYP.gif" width="160px" alt="Chii pixel art" />
+  <img src="https://i.imgur.com/EBnMdHX.gif" width="160px" alt="Sakura Rain" />
 </div>
 
 ---
