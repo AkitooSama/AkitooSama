@@ -10,13 +10,16 @@
   <img src="https://img.shields.io/badge/Shell-Zsh-ffb6c1?style=flat&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Aesthetic-linuxcore-ff69b4?style=flat&logoColor=white">
 </div>
-
 ---
-<hr>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif" width="70%" />
+</p>
 
-<table align="center">
-  <tr>
-    <td>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=system+fetch+~+~;about+me;">
+</h1>
+
+<div align="center">
 
 <pre>
 ┌────────────────────────────────────────────────────────┐
@@ -31,17 +34,9 @@
 └────────────────────────────────────────────────────────┘
 </pre>
 
-    </td>
-    <td>
-      <img src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif"
-           width="220" height="220" style="border-radius: 10px;" alt="about gif">
-    </td>
-  </tr>
-</table>
-
-
+</div>
 
 <!---
-AkitooSama/AkitooSama is a special repository because its `README.md`
+AkitooSama/AkitooSama is a special repository because its README.md
 appears on your GitHub profile. Preview this in dark mode — that's where it lives.
 --->
