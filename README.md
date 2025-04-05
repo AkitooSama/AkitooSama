@@ -1,12 +1,3 @@
-<!-- Pink Sakura Pixel Rain Background (only works on personal site, not GitHub) -->
-<style>
-  body {
-    background-image: url('https://i.imgur.com/WCWUjCT.gif');
-    background-size: cover;
-    background-attachment: fixed;
-  }
-</style>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=welcome+to+my+pretty+terminal+~;aka+@AkitooSama+%F0%9F%A7%9C%E2%99%82%EF%B8%8F;arch+linux+btw+%7C+hyprland+%7C+zsh+%7C+neovim">
 </h1>
