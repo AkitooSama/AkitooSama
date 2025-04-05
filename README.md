@@ -10,7 +10,9 @@
   <img src="https://img.shields.io/badge/Shell-Zsh-ffb6c1?style=flat&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Aesthetic-linuxcore-ff69b4?style=flat&logoColor=white">
 </div>
+
 ---
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif" width="70%" />
 </p>
