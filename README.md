@@ -26,14 +26,14 @@
 
 <pre>
 ┌────────────────────────────────────────────────────────┐
-│ name: Aryan Pahade                                     │
-│ handle: @AkitooSama                                    │
-│ main stack: Zig, Python, NeoVim, Zsh, Tmux             │
-│ learning: async rituals, cursed CLI magick             │
-│ collab: chaotic python side quests + rice configs      │
+│ name: aryan pahade                                     │
+│ handle: @akitooSama                                    │
+│ main stack: zig, python, neovim, zsh, tmux             │
+│ learning: shaders, ascii-rendering, game making        │
+│ collab: project + rice configs                         │
 │ contact: akitoomusic@gmail.com                         │
-│ pronouns: py/thon                                      │
-│ quirk: terminal human who hates python                 │
+│ pronouns: any                                          │
+│ interets: ascii and terminal                           │  
 └────────────────────────────────────────────────────────┘
 </pre>
 
