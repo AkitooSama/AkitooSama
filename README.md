@@ -17,11 +17,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=system+fetch+~+~;about+me;">
 </h1>
 
-<hr>
+<table align="center">
+  <tr>
+    <td>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
-
-  <pre style="text-align: left;">
+<pre>
 ┌────────────────────────────────────────────────────────┐
 │ name: Aryan Pahade                                     │
 │ handle: @AkitooSama                                    │
@@ -32,12 +32,16 @@
 │ pronouns: py/thon                                      │
 │ quirk: terminal human who hates python                 │
 └────────────────────────────────────────────────────────┘
-  </pre>
+</pre>
 
-  <img src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif"
-       width="220" height="220" style="border-radius: 10px;" alt="cool gif" />
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif"
+           width="220" height="220" style="border-radius: 10px;" alt="about gif">
+    </td>
+  </tr>
+</table>
 
-</div>
 
 <!---
 AkitooSama/AkitooSama is a special repository because its `README.md`
