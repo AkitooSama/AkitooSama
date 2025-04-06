@@ -19,7 +19,7 @@
       <pre>
 ┌────────────────────────────────────────────────────────┐
 │ name: aryan pahade                                     │
-│ handle: @akitooSama                                    │
+│ handle: @akitoosama                                    │
 │ main stack: zig, python, neovim, zsh, tmux             │
 │ learning: shaders, ascii-rendering, game making        │
 │ collab: project + rice configs                         │
