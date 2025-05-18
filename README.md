@@ -1,5 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=welcome+to+my+pretty+terminal+~;@AkitooSama;arch+linux+btw+%7C+hyprland+%7C+zsh+%7C+neovim;i love ascii <3">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=welcome+to+my+pretty+terminal+~;@AkitooSama;arch+linux+btw+%7C+hyprland+%7C+zsh+%7C+neovim;i+love+ascii+%3C3"
+    alt="Typing SVG"
+  />
 </h1>
 
 <div align="center">
